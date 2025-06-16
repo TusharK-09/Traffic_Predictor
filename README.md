@@ -24,6 +24,6 @@ It helps users anticipate traffic and plan travel better. Deployed locally for p
 
 ## **Future Improvements 
 ```markdown
-## 🔧 Future Improvements
+## 🔧 plans
 - Add live Google Maps API integration
 - Improve model accuracy with more data
