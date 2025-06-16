@@ -1,0 +1,541 @@
+timestamp,origin,destination,distance,duration,duration_in_traffic
+2025-06-12 16:18:53,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,10 mins
+2025-06-12 16:18:54,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,29 mins
+2025-06-12 16:18:54,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,22 mins
+2025-06-12 16:28:55,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,11 mins
+2025-06-12 16:28:55,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-12 16:28:55,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-12 16:38:56,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-12 16:38:56,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-12 16:38:57,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-12 16:48:57,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,11 mins
+2025-06-12 16:48:57,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-12 16:48:58,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-12 16:58:58,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-12 16:58:59,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,29 mins
+2025-06-12 16:59:00,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-12 17:09:00,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,11 mins
+2025-06-12 17:09:00,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-12 17:09:01,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-12 18:13:31,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,12 mins
+2025-06-12 18:13:31,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,33 mins
+2025-06-12 18:13:31,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,27 mins
+2025-06-12 18:23:32,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,13 mins
+2025-06-12 18:23:32,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,32 mins
+2025-06-12 18:23:33,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,28 mins
+2025-06-12 18:33:33,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,13 mins
+2025-06-12 18:33:33,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,32 mins
+2025-06-12 18:33:34,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,30 mins
+2025-06-12 18:43:34,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,12 mins
+2025-06-12 18:43:35,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,33 mins
+2025-06-12 18:43:35,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,28 mins
+2025-06-12 18:53:36,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,12 mins
+2025-06-12 18:53:36,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,31 mins
+2025-06-12 18:53:36,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,32 mins
+2025-06-12 19:03:37,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,12 mins
+2025-06-12 19:03:37,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,31 mins
+2025-06-12 19:03:38,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,31 mins
+2025-06-12 19:05:38,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,12 mins
+2025-06-12 19:05:38,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,31 mins
+2025-06-12 19:05:38,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,32 mins
+2025-06-12 19:15:39,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-12 19:15:39,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,30 mins
+2025-06-12 19:15:39,Noida Sector 18,"South Extension Market, Delhi",14.6 km,25 mins,31 mins
+2025-06-12 19:25:40,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,12 mins
+2025-06-12 19:25:41,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-12 19:25:42,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,30 mins
+2025-06-12 19:35:43,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-12 19:35:43,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-12 19:35:43,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,30 mins
+2025-06-12 19:45:44,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-12 19:45:45,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-12 19:45:46,Noida Sector 18,"South Extension Market, Delhi",15.7 km,23 mins,27 mins
+2025-06-12 19:55:46,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-12 19:55:46,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-12 19:55:47,Noida Sector 18,"South Extension Market, Delhi",15.7 km,23 mins,25 mins
+2025-06-12 19:56:44,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-12 19:56:45,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-12 19:56:45,Noida Sector 18,"South Extension Market, Delhi",15.7 km,23 mins,25 mins
+2025-06-12 20:06:46,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-12 20:06:47,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-12 20:06:47,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,26 mins
+2025-06-12 20:16:47,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-12 20:16:48,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-12 20:16:48,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,24 mins
+2025-06-12 20:26:49,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-12 20:26:49,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-12 20:26:50,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-12 20:36:50,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-12 20:36:51,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-12 20:36:52,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-12 20:46:53,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-12 20:46:53,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-12 20:46:54,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,22 mins
+2025-06-12 20:47:06,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-12 20:47:07,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-12 20:47:07,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,22 mins
+2025-06-12 20:57:08,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-12 20:57:08,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,25 mins
+2025-06-12 20:57:08,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,21 mins
+2025-06-12 21:07:09,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-12 21:07:09,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,24 mins
+2025-06-12 21:07:10,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,21 mins
+2025-06-12 21:45:19,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,10 mins
+2025-06-12 21:45:20,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,23 mins
+2025-06-12 21:45:21,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,20 mins
+2025-06-12 21:55:21,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,10 mins
+2025-06-12 21:55:21,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,22 mins
+2025-06-12 21:55:22,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,20 mins
+2025-06-12 22:05:22,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,10 mins
+2025-06-12 22:05:23,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,23 mins
+2025-06-12 22:05:23,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,20 mins
+2025-06-12 22:15:24,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,10 mins
+2025-06-12 22:15:24,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,22 mins
+2025-06-12 22:15:25,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,20 mins
+2025-06-12 22:25:25,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,11 mins
+2025-06-12 22:25:26,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,22 mins
+2025-06-12 22:25:26,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,20 mins
+2025-06-12 22:26:20,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,11 mins
+2025-06-12 22:26:20,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,22 mins
+2025-06-12 22:26:21,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,20 mins
+2025-06-13 08:41:50,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,9 mins
+2025-06-13 08:41:50,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,23 mins
+2025-06-13 08:41:51,Noida Sector 18,"South Extension Market, Delhi",13.7 km,24 mins,28 mins
+2025-06-13 08:51:51,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,10 mins
+2025-06-13 08:51:52,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,23 mins
+2025-06-13 08:51:52,Noida Sector 18,"South Extension Market, Delhi",13.7 km,24 mins,31 mins
+2025-06-13 09:01:53,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,10 mins
+2025-06-13 09:01:54,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,24 mins
+2025-06-13 09:01:54,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,34 mins
+2025-06-13 09:11:55,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,10 mins
+2025-06-13 09:11:55,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,25 mins
+2025-06-13 09:11:55,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,34 mins
+2025-06-13 09:21:56,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,11 mins
+2025-06-13 09:21:57,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-13 09:21:57,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,34 mins
+2025-06-13 09:31:58,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,11 mins
+2025-06-13 09:31:58,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,25 mins
+2025-06-13 09:31:59,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,36 mins
+2025-06-13 09:32:23,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,11 mins
+2025-06-13 09:32:24,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,25 mins
+2025-06-13 09:32:24,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,36 mins
+2025-06-13 09:42:25,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,10 mins
+2025-06-13 09:42:25,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,24 mins
+2025-06-13 09:42:26,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,35 mins
+2025-06-13 09:52:26,"Connaught Place, Delhi","India Gate, Delhi",4.9 km,13 mins,12 mins
+2025-06-13 09:52:27,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-13 09:52:27,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,32 mins
+2025-06-13 10:02:28,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,12 mins
+2025-06-13 10:02:28,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-13 10:02:29,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,31 mins
+2025-06-13 10:12:29,"Connaught Place, Delhi","India Gate, Delhi",4.9 km,13 mins,12 mins
+2025-06-13 10:12:29,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-13 10:12:30,Noida Sector 18,"South Extension Market, Delhi",14.7 km,25 mins,26 mins
+2025-06-13 10:22:30,"Connaught Place, Delhi","India Gate, Delhi",4.9 km,13 mins,12 mins
+2025-06-13 10:22:31,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,25 mins
+2025-06-13 10:22:31,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,26 mins
+2025-06-13 10:23:00,"Connaught Place, Delhi","India Gate, Delhi",4.9 km,13 mins,12 mins
+2025-06-13 10:23:01,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-13 10:23:01,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,26 mins
+2025-06-13 10:33:01,"Connaught Place, Delhi","India Gate, Delhi",4.9 km,13 mins,12 mins
+2025-06-13 10:33:02,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-13 10:33:02,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,24 mins
+2025-06-13 10:43:02,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,11 mins
+2025-06-13 10:43:03,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-13 10:43:03,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,25 mins
+2025-06-13 10:53:04,"Connaught Place, Delhi","India Gate, Delhi",4.9 km,13 mins,12 mins
+2025-06-13 10:53:04,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-13 10:53:05,Noida Sector 18,"South Extension Market, Delhi",13.7 km,24 mins,25 mins
+2025-06-13 11:03:05,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,11 mins
+2025-06-13 11:03:05,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,25 mins
+2025-06-13 11:03:06,Noida Sector 18,"South Extension Market, Delhi",13.7 km,24 mins,25 mins
+2025-06-13 11:13:07,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,12 mins
+2025-06-13 11:13:07,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-13 11:13:07,Noida Sector 18,"South Extension Market, Delhi",15.7 km,23 mins,24 mins
+2025-06-13 11:13:15,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,12 mins
+2025-06-13 11:13:16,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,25 mins
+2025-06-13 11:13:16,Noida Sector 18,"South Extension Market, Delhi",15.7 km,23 mins,24 mins
+2025-06-13 11:23:16,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,12 mins
+2025-06-13 11:23:17,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-13 11:23:17,Noida Sector 18,"South Extension Market, Delhi",15.7 km,23 mins,26 mins
+2025-06-13 11:33:18,"Connaught Place, Delhi","India Gate, Delhi",4.9 km,13 mins,12 mins
+2025-06-13 11:33:18,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-13 11:33:19,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,28 mins
+2025-06-13 11:43:19,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,11 mins
+2025-06-13 11:43:20,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-13 11:43:20,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,28 mins
+2025-06-13 11:53:21,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,11 mins
+2025-06-13 11:53:21,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-13 11:53:22,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,26 mins
+2025-06-13 12:03:22,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,12 mins
+2025-06-13 12:03:22,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-13 12:03:23,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,25 mins
+2025-06-13 12:03:29,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,12 mins
+2025-06-13 12:03:30,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-13 12:03:30,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,25 mins
+2025-06-13 12:13:30,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,12 mins
+2025-06-13 12:13:31,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-13 12:13:31,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,24 mins
+2025-06-13 12:23:32,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,13 mins
+2025-06-13 12:23:33,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.4 km,27 mins,27 mins
+2025-06-13 12:23:33,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,24 mins
+2025-06-13 12:33:34,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,13 mins
+2025-06-13 12:33:35,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-13 12:33:35,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,24 mins
+2025-06-13 12:43:36,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,12 mins
+2025-06-13 12:43:37,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,29 mins
+2025-06-13 12:43:37,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-13 12:53:38,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,13 mins
+2025-06-13 12:53:38,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-13 12:53:38,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,22 mins
+2025-06-13 12:53:45,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,13 mins
+2025-06-13 12:53:45,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-13 12:53:46,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,22 mins
+2025-06-13 13:03:46,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,12 mins
+2025-06-13 13:03:47,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.3 km,26 mins,28 mins
+2025-06-13 13:03:47,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,22 mins
+2025-06-13 13:13:47,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,11 mins
+2025-06-13 13:13:48,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.4 km,27 mins,30 mins
+2025-06-13 13:13:48,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,22 mins
+2025-06-13 13:23:49,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,11 mins
+2025-06-13 13:23:50,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,29 mins
+2025-06-13 13:23:50,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,22 mins
+2025-06-13 13:33:51,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,12 mins
+2025-06-13 13:33:51,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,29 mins
+2025-06-13 13:33:52,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-13 13:43:52,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,12 mins
+2025-06-13 13:43:53,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,29 mins
+2025-06-13 13:43:53,Noida Sector 18,"South Extension Market, Delhi",15.7 km,23 mins,22 mins
+2025-06-13 13:44:01,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,12 mins
+2025-06-13 13:44:02,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-13 13:44:02,Noida Sector 18,"South Extension Market, Delhi",15.7 km,23 mins,22 mins
+2025-06-13 13:54:02,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-13 13:54:03,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-13 13:54:03,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-13 14:04:04,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,12 mins
+2025-06-13 14:04:04,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-13 14:04:05,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,22 mins
+2025-06-13 14:14:05,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,12 mins
+2025-06-13 14:14:06,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-13 14:14:06,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-13 14:24:06,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-13 14:24:07,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-13 14:24:07,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,22 mins
+2025-06-13 14:34:08,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,12 mins
+2025-06-13 14:34:08,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-13 14:34:09,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,22 mins
+2025-06-13 14:34:19,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,12 mins
+2025-06-13 14:34:19,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-13 14:34:19,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,22 mins
+2025-06-13 14:44:20,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,12 mins
+2025-06-13 14:44:21,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-13 14:44:21,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,24 mins
+2025-06-13 14:54:22,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,12 mins
+2025-06-13 14:54:22,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-13 14:54:23,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-13 15:04:23,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,11 mins
+2025-06-13 15:04:24,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-13 15:04:24,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,22 mins
+2025-06-13 15:14:27,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,12 mins
+2025-06-13 15:14:27,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,29 mins
+2025-06-13 15:14:27,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-13 15:24:28,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,12 mins
+2025-06-13 15:24:29,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-13 15:24:29,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,22 mins
+2025-06-13 15:24:55,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,11 mins
+2025-06-13 15:24:55,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-13 15:24:56,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,22 mins
+2025-06-13 15:34:56,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,11 mins
+2025-06-13 15:34:56,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.4 km,27 mins,27 mins
+2025-06-13 15:34:57,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,22 mins
+2025-06-13 15:44:57,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,11 mins
+2025-06-13 15:44:58,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-13 15:44:58,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,22 mins
+2025-06-13 16:46:43,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,12 mins
+2025-06-13 16:46:43,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,29 mins
+2025-06-13 16:46:44,Noida Sector 18,"South Extension Market, Delhi",15.7 km,23 mins,23 mins
+2025-06-13 16:56:44,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,12 mins
+2025-06-13 16:56:45,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,30 mins
+2025-06-13 16:56:45,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-13 17:06:46,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,12 mins
+2025-06-13 17:06:46,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,29 mins
+2025-06-13 17:06:47,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-13 17:16:48,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,12 mins
+2025-06-13 17:16:48,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,31 mins
+2025-06-13 17:16:49,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,24 mins
+2025-06-13 17:26:50,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,13 mins
+2025-06-13 17:26:50,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,33 mins
+2025-06-13 17:26:51,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,24 mins
+2025-06-13 17:36:51,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,12 mins
+2025-06-13 17:36:52,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,33 mins
+2025-06-13 17:36:53,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,25 mins
+2025-06-13 17:37:37,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,12 mins
+2025-06-13 17:37:38,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,34 mins
+2025-06-13 17:37:39,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,25 mins
+2025-06-13 17:47:39,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,13 mins
+2025-06-13 17:47:40,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,35 mins
+2025-06-13 17:47:40,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,26 mins
+2025-06-13 17:57:41,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,13 mins
+2025-06-13 17:57:42,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,35 mins
+2025-06-13 17:57:42,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,28 mins
+2025-06-13 18:07:42,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,12 mins
+2025-06-13 18:07:43,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,36 mins
+2025-06-13 18:07:43,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,27 mins
+2025-06-13 18:17:44,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,13 mins
+2025-06-13 18:17:44,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,36 mins
+2025-06-13 18:17:45,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,28 mins
+2025-06-13 18:28:01,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,12 mins
+2025-06-13 18:28:02,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,33 mins
+2025-06-13 18:28:04,Noida Sector 18,"South Extension Market, Delhi",14.6 km,25 mins,29 mins
+2025-06-13 18:28:09,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,12 mins
+2025-06-13 18:28:09,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,33 mins
+2025-06-13 18:28:09,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,29 mins
+2025-06-13 18:38:10,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,12 mins
+2025-06-13 18:38:11,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.3 km,26 mins,35 mins
+2025-06-13 18:38:11,Noida Sector 18,"South Extension Market, Delhi",14.6 km,25 mins,29 mins
+2025-06-13 18:48:12,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,12 mins
+2025-06-13 18:48:12,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.3 km,26 mins,32 mins
+2025-06-13 18:48:13,Noida Sector 18,"South Extension Market, Delhi",14.6 km,25 mins,30 mins
+2025-06-13 19:22:52,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,12 mins
+2025-06-13 19:22:52,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,31 mins
+2025-06-13 19:22:52,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,28 mins
+2025-06-13 19:32:53,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,13 mins
+2025-06-13 19:32:53,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,32 mins
+2025-06-13 19:32:55,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,27 mins
+2025-06-13 19:42:55,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,13 mins
+2025-06-13 19:42:56,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,29 mins
+2025-06-13 19:42:56,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,29 mins
+2025-06-13 19:52:56,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,12 mins
+2025-06-13 19:52:57,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.4 km,27 mins,30 mins
+2025-06-13 19:52:57,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,27 mins
+2025-06-13 20:02:58,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,12 mins
+2025-06-13 20:02:58,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.4 km,27 mins,27 mins
+2025-06-13 20:02:59,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,26 mins
+2025-06-13 20:13:00,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-13 20:13:00,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,29 mins
+2025-06-13 20:13:00,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,26 mins
+2025-06-13 20:13:14,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-13 20:13:14,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,30 mins
+2025-06-13 20:13:14,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,26 mins
+2025-06-13 20:23:15,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,12 mins
+2025-06-13 20:23:15,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,29 mins
+2025-06-13 20:23:16,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-13 20:33:16,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,12 mins
+2025-06-13 20:33:16,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,30 mins
+2025-06-13 20:33:17,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,24 mins
+2025-06-13 20:43:17,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,12 mins
+2025-06-13 20:43:18,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,29 mins
+2025-06-13 20:43:18,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-13 20:53:19,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-13 20:53:19,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",12.2 km,30 mins,31 mins
+2025-06-13 20:53:20,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-14 08:33:45,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,9 mins
+2025-06-14 08:33:45,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,22 mins
+2025-06-14 08:33:46,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,19 mins
+2025-06-14 08:43:46,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,9 mins
+2025-06-14 08:43:46,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,22 mins
+2025-06-14 08:43:47,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,20 mins
+2025-06-14 08:53:47,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,9 mins
+2025-06-14 08:53:48,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,22 mins
+2025-06-14 08:53:48,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,20 mins
+2025-06-14 09:03:48,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,9 mins
+2025-06-14 09:03:49,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,22 mins
+2025-06-14 09:03:49,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,20 mins
+2025-06-14 09:13:50,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,10 mins
+2025-06-14 09:13:50,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,22 mins
+2025-06-14 09:13:50,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,21 mins
+2025-06-14 09:19:01,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,9 mins
+2025-06-14 09:19:01,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,22 mins
+2025-06-14 09:19:02,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,20 mins
+2025-06-14 09:29:02,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,9 mins
+2025-06-14 09:29:03,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,23 mins
+2025-06-14 09:29:03,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,20 mins
+2025-06-14 09:39:04,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,9 mins
+2025-06-14 09:39:04,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,23 mins
+2025-06-14 09:39:04,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,21 mins
+2025-06-14 09:49:05,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,9 mins
+2025-06-14 09:49:05,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,22 mins
+2025-06-14 09:49:06,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,21 mins
+2025-06-14 09:59:06,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,9 mins
+2025-06-14 09:59:06,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,23 mins
+2025-06-14 09:59:07,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,21 mins
+2025-06-14 10:09:07,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,9 mins
+2025-06-14 10:09:08,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,23 mins
+2025-06-14 10:09:08,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,21 mins
+2025-06-14 10:18:09,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,10 mins
+2025-06-14 10:18:09,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,23 mins
+2025-06-14 10:18:10,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,21 mins
+2025-06-14 10:28:10,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,10 mins
+2025-06-14 10:28:11,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,24 mins
+2025-06-14 10:28:11,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,21 mins
+2025-06-14 10:38:12,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,10 mins
+2025-06-14 10:38:12,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,24 mins
+2025-06-14 10:38:12,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,21 mins
+2025-06-14 10:48:13,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,10 mins
+2025-06-14 10:48:14,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,24 mins
+2025-06-14 10:48:14,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,22 mins
+2025-06-14 10:58:14,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,10 mins
+2025-06-14 10:58:15,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,23 mins
+2025-06-14 10:58:15,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,24 mins
+2025-06-14 11:08:16,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,10 mins
+2025-06-14 11:08:17,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,23 mins
+2025-06-14 11:08:17,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,25 mins
+2025-06-14 11:36:30,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,10 mins
+2025-06-14 11:36:30,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,24 mins
+2025-06-14 11:36:31,Noida Sector 18,"South Extension Market, Delhi",15.7 km,23 mins,24 mins
+2025-06-14 11:46:31,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,12 mins,10 mins
+2025-06-14 11:46:32,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,25 mins
+2025-06-14 11:46:32,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,24 mins
+2025-06-14 11:56:33,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,10 mins
+2025-06-14 11:56:33,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-14 11:56:34,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,24 mins
+2025-06-14 12:06:34,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,12 mins
+2025-06-14 12:06:34,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-14 12:06:35,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-14 12:16:35,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,11 mins
+2025-06-14 12:16:36,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-14 12:16:36,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,25 mins
+2025-06-14 12:26:37,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,10 mins
+2025-06-14 12:26:37,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-14 12:26:38,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,25 mins
+2025-06-14 12:36:00,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,10 mins
+2025-06-14 12:36:00,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-14 12:36:01,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,27 mins
+2025-06-14 12:44:43,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,11 mins
+2025-06-14 12:44:44,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-14 12:44:44,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,24 mins
+2025-06-14 12:54:45,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,10 mins
+2025-06-14 12:54:46,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-14 12:54:47,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-14 13:04:48,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,10 mins
+2025-06-14 13:04:48,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-14 13:04:48,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,24 mins
+2025-06-14 13:14:49,"Connaught Place, Delhi","India Gate, Delhi",4.3 km,11 mins,10 mins
+2025-06-14 13:14:49,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-14 13:14:50,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-14 13:24:50,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,10 mins
+2025-06-14 13:24:51,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,29 mins
+2025-06-14 13:24:51,Noida Sector 18,"South Extension Market, Delhi",13.7 km,24 mins,24 mins
+2025-06-14 13:34:52,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,10 mins
+2025-06-14 13:34:52,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-14 13:34:53,Noida Sector 18,"South Extension Market, Delhi",15.7 km,23 mins,22 mins
+2025-06-14 13:47:47,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,11 mins
+2025-06-14 13:47:47,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-14 13:47:48,Noida Sector 18,"South Extension Market, Delhi",15.7 km,23 mins,23 mins
+2025-06-14 13:57:48,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,11 mins
+2025-06-14 13:57:49,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-14 13:57:49,Noida Sector 18,"South Extension Market, Delhi",15.7 km,23 mins,23 mins
+2025-06-14 14:07:50,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-14 14:07:50,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-14 14:07:50,Noida Sector 18,"South Extension Market, Delhi",15.7 km,23 mins,22 mins
+2025-06-14 14:17:51,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,12 mins
+2025-06-14 14:17:52,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-14 14:17:52,Noida Sector 18,"South Extension Market, Delhi",15.7 km,23 mins,24 mins
+2025-06-14 14:27:53,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,11 mins
+2025-06-14 14:27:53,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-14 14:27:53,Noida Sector 18,"South Extension Market, Delhi",15.7 km,23 mins,23 mins
+2025-06-14 14:37:54,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,11 mins
+2025-06-14 14:37:55,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-14 14:37:56,Noida Sector 18,"South Extension Market, Delhi",15.7 km,23 mins,24 mins
+2025-06-14 14:38:01,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,11 mins
+2025-06-14 14:38:02,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-14 14:38:02,Noida Sector 18,"South Extension Market, Delhi",15.7 km,23 mins,24 mins
+2025-06-14 14:48:02,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,11 mins
+2025-06-14 14:48:03,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-14 14:48:03,Noida Sector 18,"South Extension Market, Delhi",14.7 km,25 mins,25 mins
+2025-06-14 14:58:04,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,11 mins
+2025-06-14 14:58:04,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-14 14:58:05,Noida Sector 18,"South Extension Market, Delhi",13.7 km,23 mins,23 mins
+2025-06-14 15:08:05,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,11 mins
+2025-06-14 15:08:06,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-14 15:08:06,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,22 mins
+2025-06-14 15:18:07,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,11 mins
+2025-06-14 15:18:07,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-14 15:18:08,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,22 mins
+2025-06-14 15:28:08,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,11 mins
+2025-06-14 15:28:09,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-14 15:28:09,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-14 15:29:47,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,11 mins
+2025-06-14 15:29:47,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-14 15:29:47,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-14 15:36:22,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,11 mins
+2025-06-14 15:36:24,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.4 km,27 mins,26 mins
+2025-06-14 15:36:24,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-14 15:46:25,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,11 mins
+2025-06-14 15:46:25,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-14 15:46:25,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-14 15:56:26,"Connaught Place, Delhi","India Gate, Delhi",5.0 km,12 mins,11 mins
+2025-06-14 15:56:26,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-14 15:56:27,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,24 mins
+2025-06-14 16:06:28,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,10 mins
+2025-06-14 16:06:28,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-14 16:06:29,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-14 16:20:53,"Connaught Place, Delhi","India Gate, Delhi",4.9 km,12 mins,11 mins
+2025-06-14 16:20:54,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-14 16:20:54,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,22 mins
+2025-06-14 16:30:56,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-14 16:30:56,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-14 16:30:56,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-14 16:40:57,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-14 16:40:57,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-14 16:40:58,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-14 16:50:58,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,12 mins
+2025-06-14 16:50:59,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,26 mins
+2025-06-14 16:50:59,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-14 17:01:00,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-14 17:01:01,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-14 17:01:01,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,24 mins
+2025-06-14 17:11:01,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,12 mins
+2025-06-14 17:11:02,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-14 17:11:02,Noida Sector 18,"South Extension Market, Delhi",15.7 km,23 mins,22 mins
+2025-06-14 17:20:58,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-14 17:20:59,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-14 17:20:59,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,24 mins
+2025-06-14 17:31:00,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-14 17:31:00,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-14 17:31:00,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-14 17:41:01,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,12 mins
+2025-06-14 17:41:01,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-14 17:41:02,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,23 mins
+2025-06-14 17:51:02,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,11 mins
+2025-06-14 17:51:02,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-14 17:51:03,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,24 mins
+2025-06-14 18:01:03,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,12 mins
+2025-06-14 18:01:04,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,29 mins
+2025-06-14 18:01:04,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,24 mins
+2025-06-14 18:11:05,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,12 mins
+2025-06-14 18:11:05,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.4 km,27 mins,28 mins
+2025-06-14 18:11:06,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,25 mins
+2025-06-14 18:28:17,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,13 mins
+2025-06-14 18:28:18,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,27 mins
+2025-06-14 18:28:18,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,26 mins
+2025-06-14 18:38:18,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,12 mins
+2025-06-14 18:38:19,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-14 18:38:19,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,27 mins
+2025-06-14 18:48:20,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,12 mins
+2025-06-14 18:48:21,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.4 km,27 mins,29 mins
+2025-06-14 18:48:21,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,29 mins
+2025-06-14 18:58:22,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,13 mins
+2025-06-14 18:58:22,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.4 km,27 mins,28 mins
+2025-06-14 18:58:23,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,28 mins
+2025-06-14 19:08:23,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,15 mins
+2025-06-14 19:08:24,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,28 mins
+2025-06-14 19:08:24,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,28 mins
+2025-06-14 19:18:31,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,13 mins
+2025-06-14 19:18:32,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.4 km,27 mins,28 mins
+2025-06-14 19:18:32,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,27 mins
+2025-06-14 19:20:27,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,13 mins
+2025-06-14 19:20:28,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.4 km,27 mins,29 mins
+2025-06-14 19:20:28,Noida Sector 18,"South Extension Market, Delhi",15.7 km,23 mins,24 mins
+2025-06-14 19:30:29,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,13 mins
+2025-06-14 19:30:29,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.4 km,27 mins,29 mins
+2025-06-14 19:30:30,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,27 mins
+2025-06-14 19:40:30,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,13 mins
+2025-06-14 19:40:31,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,35 mins
+2025-06-14 19:40:31,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,25 mins
+2025-06-14 19:50:32,"Connaught Place, Delhi","India Gate, Delhi",4.6 km,11 mins,14 mins
+2025-06-14 19:50:33,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",12.5 km,30 mins,32 mins
+2025-06-14 19:50:33,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,26 mins
+2025-06-14 20:00:34,"Connaught Place, Delhi","India Gate, Delhi",5.4 km,14 mins,17 mins
+2025-06-14 20:00:34,"Rajiv Chowk Metro Station, Delhi","Hauz Khas, Delhi",11.1 km,26 mins,31 mins
+2025-06-14 20:00:34,Noida Sector 18,"South Extension Market, Delhi",13.7 km,22 mins,25 mins
