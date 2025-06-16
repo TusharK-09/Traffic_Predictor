@@ -5,7 +5,6 @@ from datetime import datetime
 import os
 
 
-
 #default testing routes
 routes = [
     ("Connaught Place, Delhi", "India Gate, Delhi"),
