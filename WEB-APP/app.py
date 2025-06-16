@@ -14,8 +14,8 @@ st.set_page_config(page_title="🚦 Traffic Predictor", layout="centered")
 st.title("Traffic Duration Predictor")
 
 # Constants
-MODEL_DIR = "../models"
-DATA_PATH = "../data/processed/cleaned_traffic_data.csv"
+MODEL_DIR = "/models"
+DATA_PATH = "/data/processed/cleaned_traffic_data.csv"
 WINDOW_SIZE = 30
 
 device = torch.device("cpu")
